@@ -1,6 +1,9 @@
 # Culture Stew / Kulttuurihaude /文化燉工作坊 #
 
-**Hack culture Finland + Taiwan**
+## Hack culture Finland + Taiwan ##
+
+![CultureStew_poster](https://user-images.githubusercontent.com/3200190/62895983-be5c4300-bd58-11e9-88c2-c9c980bc2c9c.jpg)
+
 
 [Tuomo Tammenpää](http://tammenpaa.com/) 多摩·當明伯
 
