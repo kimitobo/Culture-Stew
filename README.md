@@ -34,15 +34,15 @@ Stew needs time. We embrace these hours for social interaction, discussions, mus
 
 ---
 
-**Links**
+**References**
 
-cooker
+Cooker
 * [Toshiba cooker](https://www.toshiba-lifestyle.co.jp/living/tourist/en/special/index_j.htm?fbclid=IwAR2GMv1KzSrGutVxk8ZJRIoB7l6WR_IhsEvdK5F4tqvSF-V11JcuO_qKdPM) 
 In 1955, Toshiba released Japan's first automatic electric rice cooker **ER-4**.
 
-
 * Tatung cooker timeline
 https://www.youtube.com/watch?v=3iRI6Djnlhs
+
 
 TV-Shop
 * 1990’s “Arompesä” TV-shop informercial
@@ -51,6 +51,32 @@ https://www.youtube.com/watch?v=SN5WeFbV_Vs
 * DIY insulator
 http://www.patikka.net/Muuta/aromipesa/aromipesa.htm
 
+Inks & printng inks
 
-**more discussion**
+* Extensive article on printing inks through ages
+https://reinol.it/the-writing-and-printing-inks-through-the-ages/
+
+* Short feature on Japanese ink stick
+https://www.youtube.com/watch?v=UYjN8E4LaOA
+
+* Iron gall ink (no voice-over in video, see description)
+https://www.youtube.com/watch?v=JdKyKfudiyc
+
+* Rice paste recipes
+http://woodblock.com/encyclopedia/entries/013_02/013_02.html
+
+
+Finland
+
+* Official travel portal to Finland (in English)
+https://www.visitfinland.com/
+
+* Emojis of Finland
+https://finland.fi/emoji/
+
+
+Misc
+
 * [hack](https://makezine.com/2015/10/11/on-the-use-of-the-word-hacks/)  [中文](http://www.makezine.com.tw/hack/)
+
+
