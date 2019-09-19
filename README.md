@@ -28,6 +28,8 @@ In Finland in late 1990’s new device was introduced to families to ease their 
 
 Both of these devices serve the same purpose, help the cook to leave food for maturing automatically freeing them to do other chores and keep the food warm for hours. We play with these similar kitchen devices together, mixing the recipes: Trying something very Finnish in Tatung pot and something very Taiwanese in the “Aromipesä”. To fully understand how both devices function we try to break down the heating process, temperature curve, insulation and challenge ourselves to make both work off the grid, without electricity from the wall. Technical, cultural and gastronomic hacks mixed together.
 Stew needs time. We embrace these hours for social interaction, discussions, music and the stories of the two cultures and cook something up for future hack cultures.
+
+
 ![](https://i.imgur.com/xmo4rC4.jpg)
 
 
