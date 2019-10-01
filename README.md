@@ -3,7 +3,7 @@
 ## Hack culture Finland + Taiwan ##
 
 
-> Working-doc here: https://hackmd.io/8xsp2rbwTCWJDdMS7ESfUQ?both
+> 在這裡翻譯： https://hackmd.io/8xsp2rbwTCWJDdMS7ESfUQ?both
 ***
 
 
