@@ -2,6 +2,13 @@
 
 ## Hack culture Finland + Taiwan ##
 
+
+---
+Working-doc here:
+https://hackmd.io/8xsp2rbwTCWJDdMS7ESfUQ?both
+---
+
+
 ![CultureStew_poster](https://user-images.githubusercontent.com/3200190/62895983-be5c4300-bd58-11e9-88c2-c9c980bc2c9c.jpg)
 
 
