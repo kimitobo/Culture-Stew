@@ -4,6 +4,8 @@
 
 Taipei & Kemiö, August 5th, 2020
 
+![Poster](https://user-images.githubusercontent.com/3200190/91204327-93971f80-e70c-11ea-94ff-a8646892fcc1.png)
+
 Facebook event, Taiwan
 https://www.facebook.com/events/677067579515569/
 Facebook event, Finland
