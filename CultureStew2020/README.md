@@ -217,19 +217,9 @@ Herbal balm from Afra
 
 
 
-Herbs / Ingredients
-
-Kataja Juniper (Juniperus communis)
-Kuusi Spruce (Picea abies), pihkasalva, resin ointment
-Mesiangervo Meadowsweet (Filipendula ulmaria)
-Mäkikuisma St. John’s wort (Hypericum perforatum)
-Nokkonen Nettle (Urtica dioica)
-Rauduskoivu Silver birch (Betula pendula)
-Siankärsämö Milfoil (Achillea millefolium)
-Voikukka Dandelion (Taraxum spp.)
 
 
-Confirmed participants, Finland
+## Confirmed participants, Finland ##
 
 Daniel Blackburn
 Juan Duarte
@@ -246,8 +236,9 @@ Sari Kippilä (co-host)
 Tuomo Tammenpää (co-host)
 + Sara Ilveskorpi (special salve-session)
 
+![Poster_2](https://user-images.githubusercontent.com/3200190/91204683-191acf80-e70d-11ea-9a8c-9121bd17fd05.png)
 
-Press
+## Press ## 
 
 Pixelache press-release
 https://pixelache.ac/events/culture-stew-2020
