@@ -1,8 +1,9 @@
-# Culture Stew 2020 Kulttuurihaude #
+# Culture Stew - Kulttuurihaude #
 
 ## Hack Culture Taiwan x Finland ##
 
-Taipei & Kemiö, August 5th, 2020
+VOL1 : Taipei, September 2019
+VOL2 : Taipei & Kemiö, August 2020
 
 ![Poster](https://user-images.githubusercontent.com/3200190/91204327-93971f80-e70c-11ea-94ff-a8646892fcc1.png)
 
@@ -15,8 +16,10 @@ https://www.facebook.com/events/741581359748316/
 
 ## Background ##
 
-Culture Stew, Hack Culture Taiwan x Finland, is a workshop concept by New Media Arts Creative team Dimension Plus and a Finnish designer-artist Tuomo Tammenpää. The idea of the workshop is to bring together curious minds from Taiwan and Finland and gather cultural idiosyncrasies of both cultures, put them in the proverbial slow boil and see what comes out of it, whether it is about actual food, traditions, music or local curiosities. 
-The first Culture Stew workshop took place in Taipei in September 2019 over three days. The next iteration of it was planned to be had in Finland in 2020 in collaboration with Pixelache & Norpas festivals. COVID-19 altered the plans to convert the 2020 gathering in Finland to two local gatherings, one in Taipei, Taiwan, one in Kemiö, Finland and connect the smaller gatherings with online conferencing tools. This workshop will take place on August 5th and 6th, 2020.
+Culture Stew, Hack Culture Taiwan x Finland, is a workshop series by New Media Arts Creative team Dimension Plus and a Finnish designer-artist Tuomo Tammenpää. The idea of the workshop is to bring together curious minds from Taiwan and Finland and gather cultural idiosyncrasies of both cultures, put them in the proverbial slow boil and see what comes out of it, whether it is about actual food, traditions, music or local curiosities. 
+
+The first Culture Stew workshop took place in Taipei in September 2019 over three days. The next iteration of it was planned to be had in Finland in 2020 in collaboration with Pixelache & Norpas festivals. COVID-19 altered the plans to convert the 2020 gathering in Finland to two local gatherings, one in Taipei, Taiwan, one in Kemiö, Finland and connect the smaller gatherings with online conferencing tools. This workshop took place on August 5th and 6th, 2020.
+
 
 ## Context ##
 
@@ -41,21 +44,60 @@ I am a Taiwanese artist and gardener based in Weimar, Germany. With my art pract
 Keting Chen
 I am a collector of plants, nature resources, and Traditional Knowledge of human beings. Recently, I base on my hometown, Pinglin (Taiwan), lead a project “Pingling Story” to construct the knowledge bridge between the community and the school, and also manage “theCollectors” co-working studio as a sustainable possibility of  living with plants, art and environments.  
 
-Afra Lin
-
 Tuomo Tammenpää
 is a designer, entrepreneur and an artist from Kemiö, Finland. He shares his time between design commissions, cultural productions, and experimental protytyping. After twenty years of work with interactive media art and digital design he has focused his work on playful interaction in connected world, embracing the ideological framework of Open Hardware and Do-It-With-Others practices.
 
 Sari Kippilä
 is a gardener and an art teacher from Kemiö, Finland. She has been studying and practicing herbal therapy, art therapy and gardening besides her original education as textile artisan that focused on weaving and felting techniques. Besides her practice as textile artist, she has been working as art school teacher for children over ten years.
 
+Afra Lin
+
+
+## Venue in Taiwan ##
+Taiwan Performing Arts and Technology Center(AND)
+http://a-n-d.tw/
 
 
 ## Venue in Finland ##
 
-The Finnish venue is in Kårkulla, Kemiö, old grammar school and it’s garden. Private home & studio space of Sari Kippilä & Tuomo Tammenpää, co-hosts the workshop. Participants can stay over in their own tents in the garden for the previous and following nights. Few bed accommodations on request. Vegan lunch is served as part of the workshop on Wednesday. Kitchen and Sauna are available.
+The Finnish venue is in Kårkulla, Kemiö, old grammar school and it’s garden. Nicknamed “Kimitobo Protodoje”, the private home & studio space of Sari Kippilä & Tuomo Tammenpää, co-hosts the workshop. Participants can stay over in their own tents in the garden for the previous and following nights. Few bed accommodations on request. Vegan lunch is served as part of the workshop on Wednesday. Kitchen and Sauna are available.
 
 
+## Workshop report ##
+
+Culture Stew, Hack Culture Taiwan x Finland, is a workshop series by New Media Arts Creative team Dimension Plus and a Finnish designer-artist Tuomo Tammenpää. The idea of the workshop is to bring together curious minds from Taiwan and Finland and gather cultural idiosyncrasies of both cultures, put them in the proverbial slow boil and see what comes out of it, whether it is about actual food, traditions, music, or local curiosities. 
+
+The first Culture Stew workshop took place in Taipei in September 2019 over three days. The next iteration of it was planned to be had in Finland in 2020 in collaboration with Pixelache & Norpas festivals. COVID-19 altered the plans to convert the 2020 gathering in Finland to two local gatherings, one in Taipei, Taiwan, one in Kemiö, Finland, and connect the smaller gatherings with online conferencing tools. 
+
+This connected “tandem-workshop” took take place on August 5th and 6th, 2020, and gathered about 30 participants in Taipei and a dozen in Kemiö. The workshop started with a presentation of Taiwan and its culture, aimed at the audience in Finland. In the nature of the "stew" in the Culture Stew workshops, we started the slow boil of Taiwanese tea eggs from the herbs received from Taiwan. 
+
+The "Healing Shapes" workshop segment explored the culture of home remedies between Finnish and Taiwanese participants, especially the knowledge that can be preserved in sensational objects, such as Moxa, or body movement - such as back scratch & "vihtominen" in the sauna. In the hands-on part of the segment, we brewed Mogwort tea and kneaded the dough for Mogwort-bean dumplings, and cooked them for a lunch snack. 
+
+The "Bitter is Better" workshop segment was about the exploration of the sensation of bitterness, its defensive properties, and how differently we perceive the bitter taste. For sharing our experiences over the video call, we had received a collection of herbs from Taiwan and brewed together with the same selection of herbal infusions, tasted and scaled them, and shared our expressions of faces sipping the various degrees of happiness for much of mixed enjoyment and repulsion. The mandarin saying of "Sweetness comes after bitterness" worked as a metaphor of hope in the midst of a global pandemic that separated us.
+
+The workshop concluded with the communal consumption of the slow-boiled tea eggs to be followed with more improvised cookings, a sauna session, and a follow-up video call the next morning with a presentation of Finnish culture to the Taiwanese audience.
+
+
+******
+
+## Photos: ##
+https://github.com/kimitobo/Culture-Stew/tree/master/CultureStew2020/Photos
+(Photo credits: Vincent Sang, Fat Chou, Brian Chen, Inchy Chen & Tuomo Tammenpää)
+
+## Organisers: ##
+Dimension Plus Inc.
+Tuomo Tammenpää
+
+## Support: ##
+Ministry of Culture, Taiwan
+Pixelache
+
+## Thank you: ##
+Norpas Festival
+Steve Maher, video streaming
+Sara Ilveskorpi, pop-up salve-session
+
+******
 
 Program
 https://drive.google.com/drive/folders/1X-xATVAG5b6nPPcV9V8EfeTghhiFZ-OH
