@@ -2,7 +2,7 @@
 
 ## Hack Culture Taiwan x Finland ##
 
-VOL1 : Taipei, September 2019
+VOL1 : Taipei, September 2019  
 VOL2 : Taipei & Kemiö, August 2020
 
 ![Poster](https://user-images.githubusercontent.com/3200190/91204327-93971f80-e70c-11ea-94ff-a8646892fcc1.png)
