@@ -7,10 +7,11 @@ VOL2 : Taipei & Kemiö, August 2020
 
 ![Poster](https://user-images.githubusercontent.com/3200190/91204327-93971f80-e70c-11ea-94ff-a8646892fcc1.png)
 
-Facebook event, Taiwan  
-https://www.facebook.com/events/677067579515569/
-Facebook event, Finland
-https://www.facebook.com/events/741581359748316/
+Facebook event, Taiwan. 
+https://www.facebook.com/events/677067579515569/  
+
+Facebook event, Finland  
+https://www.facebook.com/events/741581359748316/. 
 
 
 ### Background ###
@@ -61,7 +62,11 @@ http://a-n-d.tw/
 The Finnish venue is in Kårkulla, Kemiö, old grammar school and it’s garden. Nicknamed “Kimitobo Protodoje”, the private home & studio space of Sari Kippilä & Tuomo Tammenpää, co-hosts the workshop. Participants can stay over in their own tents in the garden for the previous and following nights. Few bed accommodations on request. Vegan lunch is served as part of the workshop on Wednesday. Kitchen and Sauna are available.
 
 
+******
+
+
 ## Workshop report ##
+
 
 Culture Stew, Hack Culture Taiwan x Finland, is a workshop series by New Media Arts Creative team Dimension Plus and a Finnish designer-artist Tuomo Tammenpää. The idea of the workshop is to bring together curious minds from Taiwan and Finland and gather cultural idiosyncrasies of both cultures, put them in the proverbial slow boil and see what comes out of it, whether it is about actual food, traditions, music, or local curiosities. 
 
@@ -80,7 +85,7 @@ The workshop concluded with the communal consumption of the slow-boiled tea eggs
 
 
 **Photos:**  
-https://github.com/kimitobo/Culture-Stew/tree/master/CultureStew2020/Photos
+https://github.com/kimitobo/Culture-Stew/tree/master/CultureStew2020/Photos  
 (Photo credits: Vincent Sang, Fat Chou, Brian Chen, Inchy Chen & Tuomo Tammenpää)
 
 **Organisers**  
